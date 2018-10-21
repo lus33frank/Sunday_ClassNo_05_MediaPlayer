@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">No:05_MediaPlayer</string>
+    <string name="xml_play">Play</string>
+    <string name="xml_stop">Stop</string>
+</resources>
